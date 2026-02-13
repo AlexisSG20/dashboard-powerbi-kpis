@@ -16,5 +16,11 @@ Dashboard interactivo en Power BI para análisis descriptivo y visualización de
 3) Explorar filtros y visualizaciones
 
 ## Evidencia
-Capturas en `docs/`.
+
+**Reporte ejecutivo**
+![Reporte Ejecutivo](docs/repote-ejecutivo.PNG)
+
+**Modelo / Tablas**
+![Modelo Tablas](docs/vista-modelos-tablas.PNG)
+
 
